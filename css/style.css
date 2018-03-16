@@ -30,6 +30,9 @@ button, strong {
 h1 {
     background-color: #3F51B5;
     color: white;
+    height: 75px;
+    
+    
 }
 
 
@@ -142,4 +145,15 @@ li img {
 .message.own {
     margin-left: 17.5%;
 }
-
+#channels {
+    position: absolute;
+    left: 0%;
+    width: 40%;
+    height: 100%;
+}
+#chat {
+    position: absolute;
+    left: 40%;
+    width: 60%;
+    height: 100%;
+}
